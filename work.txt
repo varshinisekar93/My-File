@@ -1,0 +1,6 @@
+Multiplication Exercise
+
+First number: 10
+Second number: 2
+
+10*2=20
