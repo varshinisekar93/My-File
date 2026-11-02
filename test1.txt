@@ -1,0 +1,6 @@
+Addition Exercise
+
+First number: 10
+Second number: 20
+
+10 + 20 = 30
