@@ -1,0 +1,6 @@
+Subtraction Exercise
+
+First number: 30
+Second number: 10
+
+30 - 10 = 20
